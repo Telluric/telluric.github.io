@@ -1,18 +1,17 @@
 var ghost = require('ghost');
 ghost().then(function (ghostServer) {
     //var db = {
-    //    client: 'mysql',
-    //        connection: {
-    //        host     : '127.0.0.1',
-    //            user     : 'your_database_user',
-    //            password : 'your_database_password',
-    //            database : 'ghost_db',
-    //            charset  : 'utf8'
+    //    client: 'postgres',
+    //    connection: {
+    //    host: process.env.POSTGRES_HOST,
+    //    user: process.env.POSTGRES_USER,
+    //    password: process.env.POSTGRES_PASSWORD,
+    //    database: process.env.POSTGRES_DATABASE,
+    //    port: '5432'
     //    }
     //}
 
-    ghostServer.config.url = 'http://telluric-github-io.herokuapp.com';
-    ghostServer.config.urlSSL = 'https://telluric-github-io.herokuapp.com';
+    ghostServer.config.url = 'telluric-github-io.herokuapp.com';
 
     ghostServer.config.server.host = '0.0.0.0';
     ghostServer.config.server.port = process.env.PORT || 8080;
