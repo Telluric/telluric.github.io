@@ -14,6 +14,7 @@ ghost().then(function (ghostServer) {
     ghostServer.config.url = 'http://telluric-github-io.herokuapp.com';
     ghostServer.config.urlSSL = 'https://telluric-github-io.herokuapp.com';
 
+    ghostServer.config.server.host = '0.0.0.0';
     ghostServer.config.server.port = process.env.PORT || 8080;
     ghostServer.start();
 });
