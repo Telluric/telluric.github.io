@@ -2,7 +2,7 @@
   "name": "telluric",
   "version": "0.0.1",
   "dependencies": {
-    "ghost": "^1.0.0-alpha.5",
+    "ghost": "^3.27.0",
     "minimatch": "^3.0.3"
   },
   "engines": {
