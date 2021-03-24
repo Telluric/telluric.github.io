@@ -1,0 +1,8 @@
+email: github@phearzero.com
+theme: jekyll-theme-tactile
+plugins:
+  - jekyll-feed
+  - jekyll-octicons
+exclude:
+ - .idea/
+ - telluric.github.io.iml
