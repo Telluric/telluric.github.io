@@ -1,19 +1,15 @@
-# Telluric Guru
+[![Host Badge](https://img.shields.io/badge/pages-enabled-brightgreen?logo=cloudflare)](https://pages.cloudflare.com/)
+---
 
-## Personal Github: 
+## What is this?
 
-- [PhearZero](https://github.com/PhearZero)
+A place for research in the areas of Earth, Biology, Ecology and other STEM fields. This organization is maintained
+by [@PhearZero](https://github.com/PhearZero). If this is not something you are interested in, you can find more 
+projects by exploring the following:
 
-## Node Projects: 
-
-- [NodeJunkie](https://github.com/orgs/NodeJunkie)
-
-## SPA Experiments: 
-
-- [Vue Junkie](https://github.com/VueJunkie)
-- [Angular Junkie](https://github.com/AngularJunkie)
-- [React Junkie](https://github.com/React-Junkie)
-
-## Security:
-
-- [PhearNet](https://github.com/PhearNet)
+<p align="center">
+  <a href="https://github.com/NodeJunkie">@NodeJunkie</a> |
+  <a href="https://github.com/React-Junkie">@React-Junkie</a> |
+  <a href="https://github.com/AngularJunkie">@AngularJunkie</a> |
+  <a href="https://github.com/VueJunkie">@VueJunkie</a>
+</p>
