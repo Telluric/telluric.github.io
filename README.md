@@ -1,5 +1,4 @@
 [![Host Badge](https://img.shields.io/badge/pages-enabled-brightgreen?logo=cloudflare)](https://pages.cloudflare.com/)
----
 
 ## What is this?
 
