@@ -1,9 +1,11 @@
 title: Telluric Guru
+url: https://telluric.guru
 email: git@phearzero.com
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
   - jekyll-octicons
+  - jekyll-sitemap
 exclude:
  - .idea/
  - telluric.github.io.iml
