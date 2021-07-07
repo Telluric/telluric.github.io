@@ -2,9 +2,9 @@
 
 ## What is this?
 
-A place for research in the areas of Earth, Biology, Ecology and other STEM fields. This organization is maintained
-by [@PhearZero](https://github.com/PhearZero). If this is not something you are interested in, you can find more 
-projects by exploring the following:
+A place for research in the areas of Earth, Biology, Ecology and other STEM fields. This organization is maintained by [@PhearZero](https://github.com/PhearZero). 
+We just launched a [Weather Station](https://weather.telluric.guru) using [Adafruit](https://www.adafruit.com/) IoT devices.
+If this is not something you are interested in, you can find more projects by exploring the following:
 
 <p align="center">
   <a href="https://github.com/NodeJunkie">@NodeJunkie</a> |
