@@ -12,6 +12,33 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <style>
+        #container {
+            background: transparent;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        @media only screen and (max-width: 600px) {
+            body {
+                text-align: center;
+            }
+        }
+        body:before {
+            content: "";
+            background: url("/assets/logo.png") no-repeat center;
+            opacity: 0.1;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            position: absolute;
+            z-index: -1;
+        }
+    </style>
 </head>
 
 <body>
@@ -35,32 +62,6 @@
 
     </div>
 </div>
-<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-<link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-<style>
-    #container {
-        background: transparent;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        min-height: 100vh;
-    }
-    @media only screen and (max-width: 600px) {
-        body {
-            text-align: center;
-        }
-    }
-    body:before {
-        content: "";
-        background: url("/assets/logo.png") no-repeat center;
-        opacity: 0.1;
-        top: 0;
-        left: 0;
-        bottom: 0;
-        right: 0;
-        position: absolute;
-        z-index: -1;
-    }
-</style>
+
 </body>
 </html>
