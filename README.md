@@ -2,9 +2,7 @@
 
 ## What is this?
 
-A place for research in the areas of Earth, Biology, Ecology and other STEM fields. This organization is maintained by [@PhearZero](https://github.com/PhearZero). 
-Currently working with the [@algodev](http://algodev.io/) team and have been busy building the first decentralized orderbook on Algorand called [Algodex](https://about.algodex.com/).
-If this is not something you are interested in, you can find more projects by exploring the following:
+A place for research in the areas of Earth, Biology, Ecology and other STEM fields. This organization is maintained by [@PhearZero](https://github.com/PhearZero). If this is not something you are interested in, you can find more projects by exploring the following:
 
 <p align="center">
   <a href="https://github.com/NodeJunkie">@NodeJunkie</a> |
